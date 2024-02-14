@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Communication efficient Federated Learning**
 
-- 🧑‍💻 I’m currently learning **Different models of wired and wireless communication**
+- 🧑‍💻 I’m currently learning **How to simulate and optimize different transmission models (e.g. wired and wireless)**
 
-- 🤝🏼 I’m looking to collaborate on **Applying Communication efficient techniques to Federated Learning**
+- 🤝🏼 I’m looking to collaborate on **Applying Communication efficient techniques on Federated Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
