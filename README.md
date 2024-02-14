@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/saqrthabet" target="blank"><img src="https://img.shields.io/twitter/follow/saqrthabet?logo=twitter&style=for-the-badge" alt="saqrthabet" /></a> </p>
 
-- 🔭 I’m currently working on **Uncoded Video Transmission and Resource Allocation**
+- 🔭 I’m currently working on **Communication efficient Federated Learning**
 
-- 🧑‍💻 I’m currently learning **Supervised, Unsupervised, Reinforcement Learning**
+- 🧑‍💻 I’m currently learning **Different models of wired and wireless communication**
 
-- 🤝🏼 I’m looking to collaborate on **applying ML\DL to visual computation and wireless communication**
+- 🤝🏼 I’m looking to collaborate on **Applying Communication efficient techniques to Federated Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
