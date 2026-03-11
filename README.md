@@ -3,7 +3,7 @@
 <h3 align="center">PhD Researcher in Wireless Communications and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqrthabet&label=Profile%20views&color=0e75b6&style=flat" alt="saqrthabet" /> </p>
-
+<script data-goatcounter="https://saqrthabet.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 - 🔭 I’m currently working on **Communication efficient Federated Learning**
 
